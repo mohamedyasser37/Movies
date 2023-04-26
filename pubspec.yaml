@@ -29,6 +29,7 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  youtube_player_flutter: ^8.1.2
   http: ^0.13.5
   video_player: ^2.6.0
   cached_video_player: ^2.0.4

@@ -13,6 +13,8 @@ class ShowMovie extends StatelessWidget {
     Results results = ModalRoute.of(context)!.settings.arguments as Results;
 
     return Scaffold(
+      backgroundColor:   Color.fromARGB(255, 29, 30, 29),
+
       appBar: AppBar(
         centerTitle: true,
         backgroundColor: Color.fromARGB(255, 29, 30, 29),
